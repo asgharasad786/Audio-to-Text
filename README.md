@@ -1,5 +1,3 @@
-Here’s the updated version of your `README.md` with proper formatting and headings for a GitHub repository:
-
 ---
 
 # Speech-to-Text Transcription App
