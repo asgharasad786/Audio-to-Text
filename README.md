@@ -81,33 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### `requirements.txt`
 
-Here is the `requirements.txt` file to install the necessary dependencies:
-
-```
-transformers
-streamlit
-```
-
-### Folder Structure
-
-Ensure your project has the following structure:
-
-```
-your-project-folder/
-│
-├── app.py
-├── requirements.txt
-└── other_files...
-```
-
-### Instructions
-
-- **Clone the repository**: `git clone <path-to-repository>`
-- **Install dependencies**: `pip install -r requirements.txt`
-- **Run the app**: `streamlit run app.py`
-
----
-
-Let me know if you need any additional adjustments!
