@@ -1,4 +1,3 @@
----
 
 # Speech-to-Text Transcription App
 
@@ -76,7 +75,4 @@ This app can be deployed on **Streamlit Cloud** for online access. To deploy it:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 
